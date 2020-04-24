@@ -4,7 +4,7 @@ var socket=io.connect('https://chatapp786.herokuapp.com/');
 var message = document.getElementById('message'),
       handle = document.getElementById('handle'),
       btn = document.getElementById('send'),
-      output = document.getElementById('output');
+      output = document.getElementById('output')
       feedback=document.getElementById('feedback');
 ////object
 
