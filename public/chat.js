@@ -1,4 +1,4 @@
-var socket=io.connect('https://determined-lewin-b27780.netlify.app/');
+var socket=io.connect('https://chatapp786.herokuapp.com/');
 
 // Query DOM
 var message = document.getElementById('message'),
